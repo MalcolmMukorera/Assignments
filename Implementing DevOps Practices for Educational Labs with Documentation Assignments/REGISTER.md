@@ -15,7 +15,7 @@ This document maintains a list of students who have enrolled in the DevOps Pract
 | 005        | Malusi Mthiyane     | thatcodeguysa@gmail.com   | ...               | https://github.com/ThatCodeGuySA               |
 | 006        | Inacio                 | Inacio@skunkworks.africa                | Pending            |                                           |
 | 004        | Andre Mwamba        | a.mwamba@skunkworks.africa|pendiing...        | ...                                            |
-| 007    | Malcolm Mukorera             | malcolm@skunkworks.africa               | Pending             | ...                                            |
+| 007    | Malcolm Mukorera             | malcolm@skunkworks.africa               | Pending             | https://github.com/MalcolmMukorera/Teraform-Practice                                        |
 | 009    | Thobile Sema                 | thobile@gmail.com                      | Pending            | https://github.com/tnsema                                            |
 | 010      | Brandon Mloyi              |  brandon@skunkworks.africa                | Pending              | ...                                            |
 | 011        | Phethile Mahlangu                 | Phethilemahlangu25@gmail.com                       | Pending               | ...                                            |
